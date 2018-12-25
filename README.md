@@ -15,11 +15,11 @@
 
 ## 事務室
 * セルフィンプレコ<br>
-　![セルフィンプレコ](pictures/セルフィンプレコ.jpg)
+<img src="pictures/セルフィンプレコ.jpg" width="400px">
 * アルビノコリトラス<br>
-　![アルビノコリトラス](pictures/アルビノコリトラス.jpg)
+<img src="pictures/アルビノコリトラス.jpg" width="400px">
 * コリトラス（種類不明）<br>
-　![コリトラス（種類不明）](pictures/コリトラス（種類不明）.jpg)
+<img src="pictures/コリトラス（種類不明）.jpg" width="400px">
 
 # 世話
 ## 学生室・事務室共通
